@@ -1,2 +1,4 @@
-# decompiling-java
-Guide for how to decompile Java
+# How to decompile Java
+
+This work is devoted to God.
+
